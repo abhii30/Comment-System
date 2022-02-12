@@ -13,6 +13,10 @@ Comment System is a portal where you can add comments, reply to comments and sea
 * API for viewing all threads and comments, add new comment, search for any keyword
 * MongoDB has been used as database to store the details of comments
 
+# Screenshots
+![S1](https://github.com/abhii30/Comment-System/blob/master/screenshots/s1.png)
+![S2](https://github.com/abhii30/Comment-System/blob/master/screenshots/s2.png)
+
 # Installing
  Clone the repository
 > git clone https://github.com/abhii30/Comment-System.git Comment
