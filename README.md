@@ -26,7 +26,7 @@ Install dependencies for backend and frontend
 Or you can start the server and client separately
 For client
 > cd client
-> npm start
+>> npm start
 
 For server
 > cd server
