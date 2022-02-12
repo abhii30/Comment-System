@@ -30,7 +30,7 @@ For client
 
 For server
 > cd server
-> npm start
+>> npm start
 
 # Author
 * #### Abhishek Kumar
