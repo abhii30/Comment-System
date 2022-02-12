@@ -1,0 +1,48 @@
+.comment {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.replyicon:hover {
+  cursor: pointer;
+}
+
+h4 {
+  text-align: center;
+}
+
+.button {
+  border-radius: 2%;
+  background-color: aquamarine;
+}
+
+.container {
+  border: 1px solid black;
+  border-radius: 5px;
+  
+}
+
+.replyicon {
+  height: 36px;
+}
+
+.row {
+  padding: 5px;
+  align-items: center;
+}
+
+.search_bar {
+  padding: 5px;
+}
+
+.name {
+  font-size: 15px;
+}
+.comments {
+  font-size: 15px;
+}
+
+.comment1 {
+  font-size: 12px;
+}
+

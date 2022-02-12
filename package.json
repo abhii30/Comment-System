@@ -1,0 +1,13 @@
+{
+  "name": "comment-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run startServer & npm startClient",
+    "startServer": "cd server && npm run start",
+    "startClient": "cd client && npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}
